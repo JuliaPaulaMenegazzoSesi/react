@@ -1,0 +1,7 @@
+.card{
+    transition: all 200ms ease-in-out;
+    padding: 1rem;
+}
+
+.card:hover{
+    box-shadow: blue 0px 0px 0px 2px inset, rgba(255, 255, 255, 0) -10px 10px 0px 3px, rgb(31, 193, 27) -10px 10px, rgba(255, 255, 255, 0) -20px 20px 0px 3px, rgb(255, 217, 19) -20px 20px, rgba(255, 255, 255, 0) -30px 30px 0px 3px, rgb(255, 156, 85) -30px 30px, rgba(255, 255, 255, 0) -40px 40px 0px 3px, rgb(255, 85, 85) -40px 40px;}
